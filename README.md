@@ -1,6 +1,8 @@
 # Livestream discussion and issues
 
-See something wrong with stream? Want a new feature or command? Let me know with an [issue](issues) here.
+See something wrong with stream? Want a new feature or command? Let me know with an [issue] here.
+
+[issue]: https://github.com/rwxrob/stream-talk/issues
 
 Sundays noon-3pm Eastern on [YouTube](https://youtube.com/rwxrob) and [Twitch](https://twitch.tv/rwxrob)
 
